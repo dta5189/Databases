@@ -12,7 +12,6 @@ import java.time.LocalDateTime;
  * Rev: 1.0
  */
 public class Customer {
-
     /**
      * Unique identifier for the customer.
      */
